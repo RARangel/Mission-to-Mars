@@ -8,7 +8,7 @@ To scrape full-resolution images of Mars’s hemispheres and the titles of those
 
 ### Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 
-Mission_to_Mars_Challenge.ipynb  
+Mission_to_Mars_Challenge.ipynb  [file](Mission_to_Mars_Challenge.ipynb)
 
 ### Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 
